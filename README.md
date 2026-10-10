@@ -41,4 +41,4 @@ Most product code lives in private repos. The parts I can share go into Growth M
 
 ### Elsewhere
 
-[mahmoudomar.com](https://mahmoudomar.com) · [LinkedIn](https://linkedin.com/in/mahmoudomar) · [X](https://x.com/growthack88) · [YouTube](https://www.youtube.com/@GrowthHackAcademy)
+[mahmoudomar.com](https://mahmoudomar.com) · [LinkedIn](https://www.linkedin.com/in/growthack88/) · [X](https://x.com/growthack88) · [YouTube](https://www.youtube.com/@GrowthHackAcademy)
